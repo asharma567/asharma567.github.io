@@ -5,7 +5,7 @@ Got ahold of data from a popular dating app and was asked to employ some effecti
 
 {% include toc title="Table of Contents" icon="file-text" %}
 
-### Firstly, what is an outlier?
+## Firstly, what is an outlier?
 
 An outlier is an observation or a set of observations exceptionally far from the mainstream of data. It's either:
 1. an extreme case (Anomaly)
@@ -13,14 +13,14 @@ An outlier is an observation or a set of observations exceptionally far from the
 
 Typically, Analysts/Data Scientist are more interested in (1) Unless we just wanted cleanout Noise, which is also a common use case.
 
-### What to do with outliers?
+## What to do with outliers?
 Depends on the business focus but here are some general routes:
 
 1. remove outliers to strengthen our model and/or insights 
 2. study them for insight e.g. fix a measuring error, motivate changes to the model, blog post of a special case, etc.
 3. fraud detection
 
-The techniques used for this dataset are as follows--
+The techniques used for this dataset are as follows --
 - Extreme value analysis
 - Information theory: PCA    
 - Dependency variable error
@@ -28,7 +28,7 @@ The techniques used for this dataset are as follows--
 
 __bottom line:__ finding outliers/anomalies often depends on the business interest. e.g. building a strong model where outliers just amount to a hinderance in performance vs. studying anomalous cases for insight.
 
-### next steps:
+## next steps:
 - Clustering in this order:
     1. t-SNE to see how well the data clusters i.e. are they disparate data points or do they cluster well.
     2. GMM
@@ -491,7 +491,7 @@ We can see this examining the scree plot just above. In a dataset that's highly 
 
 Another method to figure out the number of components to retain is Kaiser's rule. It finds the point at which each additional components contribution to information (variance) is marginal. It's 91.7% indicated by the blue line.
 
-Potential next steps--
+Potential next steps --
 
 1. Retain full number of components post transformation then find the centroid/medoid and compute distances of all examples from the centroid and score the furthest ones as outliers.
 2. Extreme Value Analysis - just like above - on each of the components and remove outliers.

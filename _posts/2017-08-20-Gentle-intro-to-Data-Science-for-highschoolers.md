@@ -1,16 +1,16 @@
 8/20/17
 
 
-_Wrote this for an in-person overview of what data science is to a group of ambitious highschoolers_
+_Wrote this for an in-person overview of data science for a group of ambitious highschoolers_
 
-### We see it take place in our daily lives:
+## We see it take place in our daily lives:
 
 - Facebook friend recommender via triangle closing recommender system based on graph theory e.g. Gina's friends with Jackie, Jackie's friends with Ryan, Ryan will be recommended.
 - Snapchat's [puppy dog filter](http://nymag.com/selectall/2016/06/a-very-official-report-on-why-the-puppy-is-the-best-snapchat-filter.html) via eyes and nose recognition using deeplearning.
 - Tinder's [smart photos](http://tech.gotinder.com/smart-photos-2/) via
 	multi-arm bandit algorithm.
 
-### How's it used at Rocketrip:
+## How's it used at Rocketrip:
 
 - parsing receipts/images
 - figuring out the impact of the actual product on the companies revenue
@@ -19,11 +19,11 @@ _Wrote this for an in-person overview of what data science is to a group of ambi
 - segmenting the customer base
 etc.
 
-### Cool concepts not yet developed: 
+## Cool concepts not yet developed: 
 
 Predict how many likes you'll get from an instagram post.
 
-### Steps
+## Steps
 
 - __Show it makes money:__
 	Find business value of creating such a product. Instagram influencers are usually paid by some company to post about their products so a tool like this could come in handy.
