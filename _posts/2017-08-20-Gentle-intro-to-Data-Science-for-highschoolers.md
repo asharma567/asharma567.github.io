@@ -4,12 +4,14 @@
 _Wrote this for an in-person overview of what data science is to a group of ambitious highschoolers_
 
 ### We see it take place in our daily lives:
+
 - Facebook friend recommender via triangle closing recommender system based on graph theory e.g. Gina's friends with Jackie, Jackie's friends with Ryan, Ryan will be recommended.
 - Snapchat's [puppy dog filter](http://nymag.com/selectall/2016/06/a-very-official-report-on-why-the-puppy-is-the-best-snapchat-filter.html) via eyes and nose recognition using deeplearning.
 - Tinder's [smart photos](http://tech.gotinder.com/smart-photos-2/) via
 	multi-arm bandit algorithm.
 
 ### How's it used at Rocketrip:
+
 - parsing receipts/images
 - figuring out the impact of the actual product on the companies revenue
 - auto approving points / fraud detection
@@ -18,9 +20,11 @@ _Wrote this for an in-person overview of what data science is to a group of ambi
 etc.
 
 ### Cool concepts not yet developed: 
+
 Predict how many likes you'll get from an instagram post.
 
 ### Steps
+
 - __Show it makes money:__
 	Find business value of creating such a product. Instagram influencers are usually paid by some company to post about their products so a tool like this could come in handy.
 
@@ -87,6 +91,7 @@ Predict how many likes you'll get from an instagram post.
 	How to make the model and it's predictive powers accessible to the rest of the world. [Indepth blog on the approach](https://medium.com/towards-data-science/predict-the-number-of-likes-on-instagram-a7ec5c020203)
 
 ## What skills do you need?
+
 The Venn diagram below does a fairly accurate job of showing what's foundational to get into the field. Depending on the nature of the role itself might be more of one circle(e.g. engineering) or the other.
 
 ![alt text](https://static1.squarespace.com/static/5150aec6e4b0e340ec52710a/t/51525c33e4b0b3e0d10f77ab/1364352052403/Data_Science_VD.png?format=1500w)
