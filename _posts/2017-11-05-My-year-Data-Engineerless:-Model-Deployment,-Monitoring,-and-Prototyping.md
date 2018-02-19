@@ -1,8 +1,5 @@
 11/05/17
 
-My year Data Engineerless: Model Deployment, Monitoring, and Prototyping
-====================================
-
 
 
 

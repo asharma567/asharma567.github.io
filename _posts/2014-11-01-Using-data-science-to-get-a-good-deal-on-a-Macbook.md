@@ -2,8 +2,6 @@
 
 _originally posted [here](https://blog.dominodatalab.com/using-data-science-to-get-a-good-deal-on-a-macbook/)._
 
-Using data science to get a good deal on a Macbook
-============
 
 <a href="/assets/images/macbook_air_article/pic1.jpg"><img src="/assets/images/macbook_air_article/pic1.jpg"></a>
 

@@ -1,7 +1,5 @@
 8/20/17
 
-A gentle introduction to data science for highschoolers
-======
 
 _Wrote this for an in-person overview of what data science is to a group of ambitious highschoolers_
 

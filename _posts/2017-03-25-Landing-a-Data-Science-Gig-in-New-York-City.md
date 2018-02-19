@@ -1,7 +1,5 @@
 3/25/17
 
-Landing a Data Science Gig in New York City
-============
 
 <a href="/assets/images/Flow_Chart.jpeg"><img src="/assets/images/Flow_Chart.jpeg"></a>
 

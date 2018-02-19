@@ -1,7 +1,5 @@
 10/05/17
 
-Outlier Analysis on dating app data
-=====
 
 Got ahold of data from a popular dating app and was asked to employ some effective ML techniques for detecting outliers in the dataset.
 
@@ -32,7 +30,7 @@ __bottom line:__ finding outliers/anomalies often depends on the business intere
 
 ### next steps:
 - Clustering in this order:
-    1. Tsne to see how well the data clusters i.e. are they disparate data points or do they cluster well.
+    1. t-SNE to see how well the data clusters i.e. are they disparate data points or do they cluster well.
     2. GMM
     3. DBSCAN
 
