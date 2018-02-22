@@ -1,8 +1,8 @@
 My fav article: Why Data Leaders head for the Exit
 
-We're in a time where more companies are trending towards data-drivenness but there are still so many frictional points to adoption, I find - not just in my own experience - but from other leaders in the space as well.
+We're in a time where more companies are trending towards data-drivenness but there are still so many frictional points to adoption -- not just in my own experience -- but from other leaders in the space as well.
 
-For further affirmation a buddy of mine (a leader at another company) sent me (this article)[https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/] after I was griping to him about some of the issues I have to deal with. 
+For further affirmation a buddy of mine (a leader at another company) sent me [this article](https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/) after I was griping to him about some of the issues I have to deal with. 
 
 I mentioned some of the issues I've been having here at RT with a buddy of mine and he sent me this article. 
 
@@ -32,7 +32,7 @@ Agile has taken the tech world by storm. **It works fairly well for software dev
  
 **Data science is a discipline that requires its own methods.** Add to that, most companies are still treating data products like they do physical products, the economics are not the same. When I build a recommendation engine, my costs per unit is pretty much zero. Unlike a physical product which has a per unit cost. I can make a million product recommendations with that engine or just one. Other than the electricity, my cost per recommendation is the same. The cost to do the same in the physical world would be a lot more with very different cost variables involved. We have to understand that the economics of data products is different. A lot of large companies don’t even have this conversation. Finance is used to physical products economics which can cause frustration for those running data products as they are having one hand tied behind their back.
 
-_By the way, download (this awesome book)[https://resources.github.com/whitepapers/data-science/] if you're ever curious about workflow best-practices for a data scientist._
+_By the way, download [this awesome book](https://resources.github.com/whitepapers/data-science/) if you're ever curious about workflow best-practices for a data scientist._
 
 Recruiting
 ----------
