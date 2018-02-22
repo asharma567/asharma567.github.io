@@ -11,6 +11,8 @@ Leading
 
 ### Wrong Expectations
 
+
+
 **Doing data science and managing data science are not the same.** Just like being an engineer and a product manager are not the same. There is a lot of overlap but overlap does not equal sameness. Sometimes, I envy the data scientist who just has to crunch the numbers. Being a data scientist without management duties is pretty easy. Most of the time it is cleaning data sets, testing algorithms and researching new methods. A pretty comfy job. Now compare that to someone who needs to run the practice.
 
  
@@ -25,6 +27,8 @@ Workflow
 
 ### Bad Methods
 
+
+
 Agile has taken the tech world by storm. **It works fairly well for software development and as a result, many companies enforce it on data science. But data science is not software development, it’s really a field of discover whereas software development is about assembly.** I have worked with companies that demand agile and scrum for data science and then see half their team walk in less than a year. You can’t tell a team they will solve a problem in two sprints. If they don’t’ have the data or tools it won’t happen.
 
  
@@ -36,6 +40,8 @@ Recruiting
 ----------
 
 ### Academia can’t do For-Profit
+
+
 
 Many large companies have fallen into the trap that you need a PhD to do data science, you don’t. The top 5 data scientists I have ever worked with, only 1 had a PhD and it wasn’t even in stats or data science, he was a bio physicist. I call this the academia trap because many companies believe they need that stats or data science PhD. There are some smart people who know a lot about a very narrow field, but data science is a very broad discipline. When these PhD’s are put in charge, they quickly find they are out of their league. They were never taught how to run a P&L, manage a team, deal with people, competitive intel, market assessments, building a business case, etc… They were taught numbers and a few tools. 
 
