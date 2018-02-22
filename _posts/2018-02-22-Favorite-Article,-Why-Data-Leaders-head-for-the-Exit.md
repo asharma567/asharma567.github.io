@@ -4,7 +4,7 @@ We're in a time where more companies are trending towards data-drivenness but th
 
 For further affirmation a buddy of mine (a leader at another startup) sent me [this article](https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/) after I was griping to him about some of the issues I have to deal with. 
 
-I extracted the following awesome qoutes from which clear up a lot of misconceptions and can attest to this first-hand. 
+I extracted the following awesome quotes from which clear up a lot of misconceptions and can attest to this first-hand. 
 
 Leading 
 -------
@@ -17,9 +17,9 @@ Leading
 
  
 
-A leader of data science practices needs to focus on: data governance, MDM, compliance, legal issues around the use of algorithms created and ensuring documentation just in case someone sues for wrongful use. There are hiring issues, staffing problems to deal with, budget and funding to gain, P&L to run, business cases to build, market research to conduct, vendor meetings to hold, tech life-cycle management to run, evangelizing of projects (both internal and external) and turning the work into data products that are sell-able by the company and all this while trying to ensure a profit for the company. **Big difference.**
+A leader of data science practice, needs to focus on: data governance, MDM, compliance, legal issues around the use of algorithms created and ensuring documentation just in case someone sues for wrongful use. There are hiring issues, staffing problems to deal with, budget and funding to gain, P&L to run, business cases to build, market research to conduct, vendor meetings to hold, tech life-cycle management to run, evangelizing of projects (both internal and external) and turning the work into data products that are sell-able by the company and all this while trying to ensure a profit for the company. **Big difference.**
 
-_The problem with this is most companies try to bait-in thier first Data Scientist as a pure IC and ultimately making thier lives hell for the aforementioned reasons. They don't realize that person's working two roles especially if there isn't additional budget for creating larger team. The allure to having just one person, instead of building out a team is simple: Cost. But it's one of things in the long run it'll payoff_
+_Most companies try to bait-in their first Data Scientist as a pure IC and ultimately making thier lives hell for the aforementioned reasons. They don't realize that person's working two roles especially if there isn't additional budget for creating larger team. The allure to having just one person, instead of building out a team is simple: Cost. But it's one of things in the long run it'll payoff_
 
 
 Workflow
@@ -47,7 +47,10 @@ Many large companies have fallen into the trap that you need a PhD to do data sc
 
 Add to this, the world they come from. Many peer review papers in the academic world that are really good, don’t see the light of day. Why? The reviewers may have a competing theory and don’t want their current established ideas to get superseded. It is shocking how often this happens in the data science space.  I always found the academic world more political than the corporate world and when your drive is profits and customer satisfaction, that academic mindset is more of a liability than an asset. Not to mention, I have yet to see a data science program I would personally endorse. It’s run by people who have never done the job of data science outside of a lab. That’s not what you want for your company.
 
-_Most of my friends in Data Science are PhDs. I'll be the first to say they're very enjoyable people to be around, collaborate etc. But the BEST performers I've seen, almost never had a PhD, mind you aside from being an IC to building teams I've spent a lot time as a T.A. at a bootcamp where I came across a wide variety of backgrounds: **The top performers for each cohort was never a PhD while I was there.**_
+_Most of my friends in Data Science are PhDs. I'll be the first to say they're very enjoyable people to be around, collaborate etc. But the BEST performers I've seen, never had a PhD, mind you aside from being an IC to building teams I've spent a lot time as a T.A. at a bootcamp where I came across a wide variety of backgrounds: **The top performers for each cohort was never a PhD while I was there.**
+
+This is one of the painful realities about external perception as most outsiders tend not to take you seriously as a Data Scientist until they see those advanced credentials_
 
 
 
+Github | LinkedIn | Blog
