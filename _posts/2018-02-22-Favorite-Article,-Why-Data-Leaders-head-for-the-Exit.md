@@ -1,4 +1,4 @@
-My fav article: Why Data Leaders head for the Exit
+2/22/18
 
 We're in a time where more companies are trending towards data-drivenness but there are still so many frictional points to adoption -- not just in my own experience -- but from other leaders in the space as well.
 
