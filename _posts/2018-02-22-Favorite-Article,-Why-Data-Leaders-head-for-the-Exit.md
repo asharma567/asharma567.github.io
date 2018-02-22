@@ -2,9 +2,7 @@
 
 We're in a time where more companies are trending towards data-drivenness but there are still so many frictional points to adoption -- not just in my own experience -- but from other leaders in the space as well.
 
-For further affirmation a buddy of mine (a leader at another company) sent me [this article](https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/) after I was griping to him about some of the issues I have to deal with. 
-
-I mentioned some of the issues I've been having here at RT with a buddy of mine and he sent me this article. 
+For further affirmation a buddy of mine (a leader at another startup) sent me [this article](https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/) after I was griping to him about some of the issues I have to deal with. 
 
 I extracted the following awesome qoutes from which clear up a lot of misconceptions and can attest to this first-hand. 
 
