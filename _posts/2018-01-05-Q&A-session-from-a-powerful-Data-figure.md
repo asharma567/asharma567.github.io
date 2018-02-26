@@ -2,9 +2,9 @@ My rough notes from a Q&A session with a very popular figure within the Data spa
 
 The notes are pretty raw and mostly (90%) straight from him however, I sprinkled-in my own thoughts here and there. 
 
-Hope you find it helpful. Here's another book Drew Conway recommended to me on team structuring. 
+Hope you find it helpful. Here's [another book](https://resources.github.com/whitepapers/data-science/) Drew Conway recommended to me on team structuring. 
 
-Another article which talks about the (pitfalls of being a Lead)["https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/"]
+Another article which talks about the [pitfalls of being a Lead](https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/)
 
 {% include toc title="Topics" icon="gears" %}
 
