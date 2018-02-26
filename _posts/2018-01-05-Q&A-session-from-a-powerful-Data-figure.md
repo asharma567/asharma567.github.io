@@ -73,6 +73,32 @@ Technical skills are being abstracted away with the advent of tooling e.g. AWS M
 - Technical background, __Me: SE heavy__
 - Strong sense of corporate competitiveness
 
+
+#### What was your last project there?
+The operations tooling group where they made: Data Science as a service basically: Experimentation, Prediction, Customer-segmentation. 
+
+The automation/standardization of a workflow (Sklearn specific to <secret company>).
+
+Gaining adoption for the ML platform tools was challenging because people were very much attached to their workflow, tools, etc. 
+
+"Sometimes technical people have strong biases which make them very hard to persuade even more so than internal clients."
+
+The strategy was to do it through workflow automation rather than application so no one's egos were hurt. Which ultimately led to further adoption and company-wide ML IQ and standardization. The tooling group came about because of the magnitude of scale (around 500 data people) previous to that, shared libraries go a long way.
+
+
+#### Does management want a head of data science?
+After that's utterly clear, grow into that role then start building out the team.
+
+_More skills on application as opposed learning the tools and nuances of using it. Over time, it's becoming less technical skills. Urgency/corporate competitiveness._
+
+# Other great resources
+
+Hope you find it helpful. 
+
+Here's [another book](https://resources.github.com/whitepapers/data-science/) Drew Conway recommended to me on team structuring. 
+
+Another article which talks about the [pitfalls of being a Lead](https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/)
+
 Initial Team Structure
 =================
 
@@ -95,32 +121,9 @@ Pay above market. This will be your measuring stick.
 - Project employees
 - Leadership potential
 
-#### What was your last project there?
-The operations tooling group where they made: Data Science as a service basically: Experimentation, Prediction, Customer-segmentation. 
-
-The automation/standardization of a workflow (Sklearn specific to <secret company>).
-
-Gaining adoption for the ML platform tools was challenging because people were very much attached to their workflow, tools, etc. 
-
-"Sometimes technical people have strong biases which make them very hard to persuade even more so than internal clients."
-
-The strategy was to do it through workflow automation rather than application so no one's egos were hurt. Which ultimately led to further adoption and company-wide ML IQ and standardization. The tooling group came about because of the magnitude of scale (around 500 data people) previous to that, shared libraries go a long way.
-
 #### Example structure of a team: Dynamic Pricing
 - 8 data scientist 
 - 2 engineers 
 - 1 pm
 Create teams adequately weighted staff-wise for it's purpose i.e. a design team would have more designers than anything else.
 
-#### Does management want a head of data science?
-After that's utterly clear, grow into that role then start building out the team.
-
-_More skills on application as opposed learning the tools and nuances of using it. Over time, it's becoming less technical skills. Urgency/corporate competitiveness._
-
-## Other great resources
-
-Hope you find it helpful. 
-
-Here's [another book](https://resources.github.com/whitepapers/data-science/) Drew Conway recommended to me on team structuring. 
-
-Another article which talks about the [pitfalls of being a Lead](https://www.linkedin.com/pulse/why-data-science-leaders-running-exit-edward-chenard/)
