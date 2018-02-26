@@ -19,7 +19,7 @@ _This is yet another example of how it doesn't pay to chase first order needs/de
 - Intuition ( gut ) based decision-making is the hallmark of a sales org e.g. CEO is a ex-salesperson. 
 _As a matter of fact, he often poached from such companies because data was an afterthought there, hence making data people unhappy._
 
-#### Con of a Technical Cofounder?**
+#### Con of a Technical Cofounder?
 - They could have strong bias for a particular TechStack and this could cause a lot of problems later on. There problem was <cofounder> was all about PHP which is known to be an antiquated language. 
 _My current company, was it's monolithic._
 
@@ -54,10 +54,10 @@ Engineers offer the most day-to-day benefits to enable Data Scientists for succe
 	- Communicates leadership doesn't take it seriously
 	- No visibility in management if there's just a single data scientist serving purely as an IC. There needs to be two at the minimum: Manager/Strategist and IC.
 
-#### How to persuade management early-on about the importance of an org?**
+#### How to persuade management early-on about the importance of an org?
 - Before building one you need to get upfront commitment from management, this is somethiung they have to be clear on.
 
-#### What habits would you encourage in young Data Leaders?**
+#### What habits would you encourage in young Data Leaders?
 - Stay opinionated
 - Stay assertive
 - Reluctant to compromise
