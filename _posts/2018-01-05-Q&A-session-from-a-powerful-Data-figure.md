@@ -2,7 +2,7 @@ My rough notes from a Q&A session with a very popular figure within the Data spa
 
 The notes are pretty raw and mostly (90%) straight from him however, I sprinkled-in my own thoughts here and there. 
 
-For me, one of the key take-away's was the distinction between technical cofounders and non-technical ones especially if they have a Sales background. This adds another crucial metric when evaluating leadership at a start-up for any reason.
+A key take-away was the distinction between technical cofounders and non-technical ones especially if they have a Sales background. This adds another crucial metric when evaluating leadership at a start-up for any reason. It greatly effects the susceptible, adoption of data-products.
 
 {% include toc title="Topics" icon="gears" %}
 
