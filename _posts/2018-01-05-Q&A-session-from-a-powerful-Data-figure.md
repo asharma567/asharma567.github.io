@@ -1,3 +1,6 @@
+<a href="/assets/images/Fotolia_101554982_S.jpg"><img src="/assets/images/Fotolia_101554982_S.jpg"></a>
+
+
 My rough notes from a Q&A session with a very popular figure within the Data space who shall go unnamed who grew a data team from 0 to almost 1000 people. It's now a premium destination for data scientist/analyst, globally.
 
 The notes are pretty raw and mostly (90%) straight from him however, I sprinkled-in my own thoughts here and there. 
