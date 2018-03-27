@@ -1,7 +1,7 @@
 2/27/18
 
 
-What turned me to this book?
+### What turned me to this book?
 
 I’m sure many of your readers including yourself could relate to this but I’m on an endless pursuit to better myself. To your point, with ADHD we’re either on one end of the spectrum or the other, we live on the extremes and I wanted to make sure I was on the right side. 
 
@@ -29,7 +29,7 @@ As I was browsing through books ADHD, I came across quite a few but the two I bo
 
 
 
-Things I could relate to..
+### Things I could relate to..
 
 The high you described after/during presentations, I experience a similar feeling - this past friday actually gave one to the entire organization. (I also happen to be good at presentations)
 
@@ -53,60 +53,58 @@ The Squirrel references for key insights..
 Firstly brilliant analogy. My friends joke about how my dog and I have similar personalities but most say I'm very animated and cartoon character-like which bodes well for presentations, now that I think of it. 
 
 
-What distinguishes this book from others..
+### What distinguishes this book from others..
 
 Thought leadership and advice material is often provided as a disparate set of facts. You do a great job of connecting these into a greater, overarching concept.
 
 
-How many insights did I extract from it? How many did I act on? Which ones in particular?
+### Which insights did I extract?
 
 
-Early rises (5a) but I go straight to work (90 mins) - meditate - gym - office
+- Early rises (5a) but I go straight to work (90 mins) - meditate - gym - office
 
-I can’t begin to tell you how much this has positively impacted my life. My issue was waking up and falling asleep before midnight. The WiFi light bulbs coupled with the REM Alarm app on my phone help SO MUCH! This is something I’ve been battling for practically my entire life. As for falling asleep my lights are triggered to dim into this Amber tone by 9pm. It automagically makes me sleepy.
-
-
-EWR instead of JFK
-
-Though, I’m sure it wasn’t your intention by mentioning which airport you frequented but it made me question why I leave from JFK so often. Newark is much less crowded. Is that why you prefer it? Seems to be nearly the same commute time.
+	I can’t begin to tell you how much this has positively impacted my life. My issue was waking up and falling asleep before midnight. The WiFi light bulbs coupled with the REM Alarm app on my phone help SO MUCH! This is something I’ve been battling for practically my entire life. As for falling asleep my lights are triggered to dim into this Amber tone by 9pm. It automagically makes me sleepy.
 
 
+- EWR instead of JFK
 
-Decluttering
-
-I know you’re a major (pg 139) proponent of outsourcing, however I feel it comes with some bias of being a Manhattanite. The services industry is huge out here. I’ve also found some satisfaction in doing things myself. For example, If I want to take my mind off something stressful, cleaning or doing something else engaging helps me disconnect.
-
-
-But when I get my new job (hopefully soon) I’ll give this a shot. For now, I’ve formed this into a Sunday habit.
+	Though, I’m sure it wasn’t your intention by mentioning which airport you frequented but it made me question why I leave from JFK so often. Newark is much less crowded. Is that why you prefer it? Seems to be nearly the same commute time.
 
 
 
-Hot buttons
+- Decluttering
 
-After you brought this up, this helped me identify specifically what about my boss drives me up the wall.
+	I know you’re a major (pg 139) proponent of outsourcing, however I feel it comes with some bias of being a Manhattanite. The services industry is huge out here. I’ve also found some satisfaction in doing things myself. For example, If I want to take my mind off something stressful, cleaning or doing something else engaging helps me disconnect.
 
-
-
-Sporadic Burst Exercises
-
-Has been a proven successful so far - an instant boost.
+	But when I get my new job (hopefully soon) I’ll give this a shot. For now, I’ve formed this into a Sunday habit.
 
 
 
-Commitment to researching digital productivity hacks 
+- Hot buttons
 
-So far I’ve mined a bunch of good stuff from your book but as the world evolves, I need to start a habit of it.
+	After you brought this up, this helped me identify specifically what about my boss drives me up the wall.
 
 
 
-Double up on outdoor activities
+- Sporadic Burst Exercises
 
-Couldn’t agree more with this. Even in the frigid winters here in NYC, I’ll find enough layers to go running along the Hudson on the way to Chelsea Piers every morning.
+	Has been a proven successful so far - an instant boost.
+
+
+- Commitment to researching digital productivity hacks 
+
+	So far I’ve mined a bunch of good stuff from your book but as the world evolves, I need to start a habit of it.
+
+
+
+- Double up on outdoor activities
+
+	Couldn’t agree more with this. Even in the frigid winters here in NYC, I’ll find enough layers to go running along the Hudson on the way to Chelsea Piers every morning.
 
 
 
 
-Was advice tailored to people with ADHD?
+### Was advice tailored to people with ADHD?
 
 Yes, I would definitely say so. Certainly on decluttering and exercise. I know health & organization/planning is emphasized in most material on productivity, however I think this impacts people ADHD doubly, I can attest from my own experience.
 
@@ -115,7 +113,7 @@ Anders Ericsson, in his book Peak mentions, likens mastering a craft to summitin
 
 
 
-Trivial to insightful ratio?
+### Trivial to insightful ratio?
 
 I was very compelled to write all this to you so I definitely found it much more on the insightful side. Did it blow me away? No (because I read so many self-help books already) , but close enough. What I liked most was how well I could relate to you, that’s a key distinction from any other book I’ve read.
 
@@ -126,7 +124,7 @@ One of my favorite authors Mark Manson puts it this way: Since this book is comp
 I found this often to be the case, for example, I wasn’t sure about sporadically working out throughout the day. I had tried it once when I was unemployed, even though it was effective stopped because I got a job and it’s awkward to seek out remote areas of a building to do burst workouts. But your emphasis on it re-ensured, it was worth the cost.
 
 
-How fast did I read it relatively speaking?
+### How fast did I read it relatively speaking?
 
 I read it faster than any self-improvement book I own and I have at least ~20.
 
@@ -138,3 +136,8 @@ I read it faster than any self-improvement book I own and I have at least ~20.
 - Nearly a paleolithic diet
 - Reading & Writing
 - Timer cube for time deterministic tasks like cleaning
+
+
+### My favorite part of the book
+
+Often times being as different could lead to poor treatment and/or being ostracized. He reminds us on how to deal with such behavior: At the end of the day you can't control other people's actions, but you can only control your own and you should have the courage to be yourself despite what others think.
