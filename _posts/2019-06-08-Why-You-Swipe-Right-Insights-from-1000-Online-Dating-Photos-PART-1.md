@@ -23,17 +23,6 @@ You have 5 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 ----->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 4.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 
 # Why You Swipe Right: Insights from 1,000 Online Dating Photos (PART 1)
 
@@ -51,11 +40,7 @@ Whether you’re looking for the right one or the one for right now, maybe you�
 As of 2010, [about 20% of heterosexual couples](https://data.stanford.edu/hcmst) met through online dating—and that was nearly a decade ago. Today, online dating is without a doubt one of the most common ways that couples meet. It’s especially popular for groups outside the dating “mainstream,” like the LGBTQ+ community.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Untitled-document0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Untitled-document0.png "image_tooltip")
+![alt_text](images/how_people_meet2.png)
 _[“Love, Online Dating, Modern Romance and the Internet”](http://time.com/aziz-ansari-modern-romance/) by Aziz Ansari, [TIME Magazine](http://time.com/)_
 
 As Western society has increasingly moved social interactions online, some singles depend exclusively on online or app-based dating and have long forgotten how courtship used to work in the good ol’ days: real-life encounters (a dying art). This shift will be even more pronounced in future generations. At some point, perhaps we’ll see single people meeting in virtual reality. We’re continually looking for ways to automate every aspect of our lives, and dating is no exception.
